@@ -407,8 +407,18 @@ body {
     padding: 5rem 0;
 }
 
+.market-insights-container {
+    display: flex;
+    gap: 3rem;
+    align-items: flex-start;
+}
+
+.insights-content {
+    flex: 1;
+}
+
 .market-insights h2 {
-    text-align: center;
+    text-align: left;
     font-size: 2.5rem;
     margin-bottom: 3rem;
     color: #1f2937;
@@ -416,7 +426,7 @@ body {
 
 .insights-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 2rem;
 }
 
@@ -451,6 +461,24 @@ body {
     display: flex;
     align-items: center;
     gap: 0.25rem;
+}
+
+.insights-widget {
+    flex: 0 0 320px;
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    height: fit-content;
+    position: sticky;
+    top: 20px;
+}
+
+.insights-widget h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: #1f2937;
 }
 
 /* Newsletter */
@@ -632,6 +660,21 @@ body {
     
     .tab-btn {
         white-space: nowrap;
+    }
+
+    .market-insights-container {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .insights-widget {
+        flex: 1;
+        width: 100%;
+        position: static;
+    }
+
+    .market-insights h2 {
+        text-align: center;
     }
 }
 
