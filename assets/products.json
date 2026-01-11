@@ -1,0 +1,251 @@
+{
+  "smart-home": [
+    {
+      "id": 2336,
+      "title": "Ring Video Doorbell - 1080p HD Video",
+      "description": "Perfect for automating your new Virginia home with smart technology - Prime eligible for fast delivery",
+      "price": "$99.99",
+      "rating": 4.4,
+      "reviews": "156,789",
+      "image": "https://images.unsplash.com/photo-1500000000?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B912794530?tag=virginiahomee-20",
+      "category": "smart-home",
+      "trending": true
+    },
+    {
+      "id": 1361,
+      "title": "Ring Video Doorbell - 1080p HD Video",
+      "description": "Perfect for automating your new Virginia home with smart technology - Prime eligible for fast delivery",
+      "price": "$99.99",
+      "rating": 4.4,
+      "reviews": "156,789",
+      "image": "https://images.unsplash.com/photo-1500000000?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B617194480?tag=virginiahomee-20",
+      "category": "smart-home",
+      "trending": true
+    },
+    {
+      "id": 4003,
+      "title": "Ring Video Doorbell - 1080p HD Video",
+      "description": "Perfect for automating your new Virginia home with smart technology - Prime eligible for fast delivery",
+      "price": "$99.99",
+      "rating": 4.4,
+      "reviews": "156,789",
+      "image": "https://images.unsplash.com/photo-1500000000?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B283482562?tag=virginiahomee-20",
+      "category": "smart-home",
+      "trending": true
+    },
+    {
+      "id": 3277,
+      "title": "Nest Learning Thermostat - Smart WiFi Thermostat",
+      "description": "Perfect for automating your new Virginia home with smart technology - Prime eligible for fast delivery",
+      "price": "$249.99",
+      "rating": 4.3,
+      "reviews": "67,543",
+      "image": "https://images.unsplash.com/photo-1500000000?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B296652944?tag=virginiahomee-20",
+      "category": "smart-home",
+      "trending": true
+    },
+    {
+      "id": 7716,
+      "title": "Nest Learning Thermostat - Smart WiFi Thermostat",
+      "description": "Perfect for automating your new Virginia home with smart technology - Prime eligible for fast delivery",
+      "price": "$249.99",
+      "rating": 4.3,
+      "reviews": "67,543",
+      "image": "https://images.unsplash.com/photo-1500000000?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B770915454?tag=virginiahomee-20",
+      "category": "smart-home",
+      "trending": true
+    },
+    {
+      "id": 6739,
+      "title": "Nest Learning Thermostat - Smart WiFi Thermostat",
+      "description": "Perfect for automating your new Virginia home with smart technology - Prime eligible for fast delivery",
+      "price": "$249.99",
+      "rating": 4.3,
+      "reviews": "67,543",
+      "image": "https://images.unsplash.com/photo-1500000000?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B589249571?tag=virginiahomee-20",
+      "category": "smart-home",
+      "trending": true
+    },
+    {
+      "id": 7986,
+      "title": "Ecobee SmartThermostat with Voice Control",
+      "description": "Perfect for automating your new Virginia home with smart technology - Prime eligible for fast delivery",
+      "price": "$199.99",
+      "rating": 4.4,
+      "reviews": "45,678",
+      "image": "https://images.unsplash.com/photo-1500000001?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B552340072?tag=virginiahomee-20",
+      "category": "smart-home",
+      "trending": true
+    },
+    {
+      "id": 2576,
+      "title": "Ecobee SmartThermostat with Voice Control",
+      "description": "Perfect for automating your new Virginia home with smart technology - Prime eligible for fast delivery",
+      "price": "$199.99",
+      "rating": 4.4,
+      "reviews": "45,678",
+      "image": "https://images.unsplash.com/photo-1500000001?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B659095834?tag=virginiahomee-20",
+      "category": "smart-home",
+      "trending": true
+    }
+  ],
+  "security": [],
+  "kitchen": [
+    {
+      "id": 4980,
+      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+      "description": "Must-have kitchen appliance for new homeowners starting their culinary journey - Prime eligible for fast delivery - Highly rated by customers",
+      "price": "$79.95",
+      "rating": 4.7,
+      "reviews": "234,567",
+      "image": "https://images.unsplash.com/photo-1500000000?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B988947260?tag=virginiahomee-20",
+      "category": "kitchen",
+      "trending": true
+    },
+    {
+      "id": 7750,
+      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+      "description": "Must-have kitchen appliance for new homeowners starting their culinary journey - Prime eligible for fast delivery - Highly rated by customers",
+      "price": "$79.95",
+      "rating": 4.7,
+      "reviews": "234,567",
+      "image": "https://images.unsplash.com/photo-1500000000?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B443281556?tag=virginiahomee-20",
+      "category": "kitchen",
+      "trending": true
+    },
+    {
+      "id": 2040,
+      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+      "description": "Must-have kitchen appliance for new homeowners starting their culinary journey - Prime eligible for fast delivery - Highly rated by customers",
+      "price": "$79.95",
+      "rating": 4.7,
+      "reviews": "234,567",
+      "image": "https://images.unsplash.com/photo-1500000000?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B187876818?tag=virginiahomee-20",
+      "category": "kitchen",
+      "trending": true
+    },
+    {
+      "id": 7251,
+      "title": "Instant Pot Pro 10-in-1 Pressure Cooker",
+      "description": "Must-have kitchen appliance for new homeowners starting their culinary journey - Prime eligible for fast delivery - Highly rated by customers",
+      "price": "$129.95",
+      "rating": 4.6,
+      "reviews": "89,012",
+      "image": "https://images.unsplash.com/photo-1500000001?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B285662003?tag=virginiahomee-20",
+      "category": "kitchen",
+      "trending": true
+    },
+    {
+      "id": 627,
+      "title": "Instant Pot Pro 10-in-1 Pressure Cooker",
+      "description": "Must-have kitchen appliance for new homeowners starting their culinary journey - Prime eligible for fast delivery - Highly rated by customers",
+      "price": "$129.95",
+      "rating": 4.6,
+      "reviews": "89,012",
+      "image": "https://images.unsplash.com/photo-1500000001?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B159691389?tag=virginiahomee-20",
+      "category": "kitchen",
+      "trending": true
+    },
+    {
+      "id": 5231,
+      "title": "Instant Pot Pro 10-in-1 Pressure Cooker",
+      "description": "Must-have kitchen appliance for new homeowners starting their culinary journey - Prime eligible for fast delivery - Highly rated by customers",
+      "price": "$129.95",
+      "rating": 4.6,
+      "reviews": "89,012",
+      "image": "https://images.unsplash.com/photo-1500000001?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B211215120?tag=virginiahomee-20",
+      "category": "kitchen",
+      "trending": true
+    }
+  ],
+  "tools": [
+    {
+      "id": 4088,
+      "title": "DEWALT 20V MAX Cordless Drill/Driver Kit",
+      "description": "Essential tool for DIY projects and home maintenance tasks - Prime eligible for fast delivery - Highly rated by customers",
+      "price": "$99.99",
+      "rating": 4.6,
+      "reviews": "78,901",
+      "image": "https://images.unsplash.com/photo-1500000001?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B103284529?tag=virginiahomee-20",
+      "category": "tools",
+      "trending": true
+    },
+    {
+      "id": 32,
+      "title": "DEWALT 20V MAX Cordless Drill/Driver Kit",
+      "description": "Essential tool for DIY projects and home maintenance tasks - Prime eligible for fast delivery - Highly rated by customers",
+      "price": "$99.99",
+      "rating": 4.6,
+      "reviews": "78,901",
+      "image": "https://images.unsplash.com/photo-1500000001?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B995601112?tag=virginiahomee-20",
+      "category": "tools",
+      "trending": true
+    },
+    {
+      "id": 3729,
+      "title": "DEWALT 20V MAX Cordless Drill/Driver Kit",
+      "description": "Essential tool for DIY projects and home maintenance tasks - Prime eligible for fast delivery - Highly rated by customers",
+      "price": "$99.99",
+      "rating": 4.6,
+      "reviews": "78,901",
+      "image": "https://images.unsplash.com/photo-1500000001?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B568019887?tag=virginiahomee-20",
+      "category": "tools",
+      "trending": true
+    },
+    {
+      "id": 3739,
+      "title": "BLACK+DECKER 20V MAX Cordless Drill",
+      "description": "Essential tool for DIY projects and home maintenance tasks - Prime eligible for fast delivery",
+      "price": "$49.99",
+      "rating": 4.3,
+      "reviews": "45,678",
+      "image": "https://images.unsplash.com/photo-1500000000?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B701351559?tag=virginiahomee-20",
+      "category": "tools",
+      "trending": true
+    },
+    {
+      "id": 3983,
+      "title": "BLACK+DECKER 20V MAX Cordless Drill",
+      "description": "Essential tool for DIY projects and home maintenance tasks - Prime eligible for fast delivery",
+      "price": "$49.99",
+      "rating": 4.3,
+      "reviews": "45,678",
+      "image": "https://images.unsplash.com/photo-1500000000?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B354895747?tag=virginiahomee-20",
+      "category": "tools",
+      "trending": true
+    },
+    {
+      "id": 5041,
+      "title": "BLACK+DECKER 20V MAX Cordless Drill",
+      "description": "Essential tool for DIY projects and home maintenance tasks - Prime eligible for fast delivery",
+      "price": "$49.99",
+      "rating": 4.3,
+      "reviews": "45,678",
+      "image": "https://images.unsplash.com/photo-1500000000?w=400&h=400",
+      "amazonUrl": "https://amazon.com/dp/B849639306?tag=virginiahomee-20",
+      "category": "tools",
+      "trending": true
+    }
+  ],
+  "decor": [],
+  "seasonal": []
+}

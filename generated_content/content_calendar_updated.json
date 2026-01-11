@@ -1,0 +1,170 @@
+{
+  "January": [
+    {
+      "topic": "New Year Home Organization Essentials",
+      "category": "organization"
+    },
+    {
+      "topic": "Winter Energy Efficiency Tips for Virginia Homes",
+      "category": "energy"
+    },
+    {
+      "topic": "Post-Holiday Home Security Review",
+      "category": "security"
+    }
+  ],
+  "February": [
+    {
+      "topic": "Valentine's Day Home Decor on a Budget",
+      "category": "decor"
+    },
+    {
+      "topic": "Preparing Your Virginia Home for Spring",
+      "category": "maintenance"
+    },
+    {
+      "topic": "Smart Home Upgrades for New Homeowners",
+      "category": "smart-home"
+    }
+  ],
+  "March": [
+    {
+      "topic": "Spring Cleaning Essentials and Tools",
+      "category": "cleaning"
+    },
+    {
+      "topic": "Virginia Garden Prep: Tools and Supplies",
+      "category": "outdoor"
+    },
+    {
+      "topic": "Home Maintenance Checklist for Spring",
+      "category": "maintenance"
+    }
+  ],
+  "April": [
+    {
+      "topic": "Easter Entertaining: Kitchen Essentials",
+      "category": "kitchen"
+    },
+    {
+      "topic": "Allergy Season: Air Quality Solutions",
+      "category": "health"
+    },
+    {
+      "topic": "Virginia Real Estate Market Spring Update",
+      "category": "market"
+    }
+  ],
+  "May": [
+    {
+      "topic": "Mother's Day Gift Ideas for the Home",
+      "category": "gifts"
+    },
+    {
+      "topic": "Outdoor Living Setup for Virginia Weather",
+      "category": "outdoor"
+    },
+    {
+      "topic": "First-Time Buyer's Guide to Virginia Markets",
+      "category": "buying"
+    }
+  ],
+  "June": [
+    {
+      "topic": "Summer Cooling Solutions for Virginia Homes",
+      "category": "cooling"
+    },
+    {
+      "topic": "Father's Day Tool Gift Guide",
+      "category": "tools"
+    },
+    {
+      "topic": "Wedding Season: Home Entertaining Essentials",
+      "category": "entertaining"
+    }
+  ],
+  "July": [
+    {
+      "topic": "4th of July Outdoor Entertaining Setup",
+      "category": "outdoor"
+    },
+    {
+      "topic": "Summer Energy Savings Tips",
+      "category": "energy"
+    },
+    {
+      "topic": "Mid-Year Virginia Housing Market Review",
+      "category": "market"
+    }
+  ],
+  "August": [
+    {
+      "topic": "Back-to-School Home Office Setup",
+      "category": "office"
+    },
+    {
+      "topic": "Late Summer Home Maintenance Tasks",
+      "category": "maintenance"
+    },
+    {
+      "topic": "Hurricane Preparedness for Virginia Homeowners",
+      "category": "safety"
+    }
+  ],
+  "September": [
+    {
+      "topic": "Fall Decorating Trends and Essentials",
+      "category": "decor"
+    },
+    {
+      "topic": "Preparing Your Home for Fall in Virginia",
+      "category": "seasonal"
+    },
+    {
+      "topic": "Labor Day Weekend Home Projects",
+      "category": "diy"
+    }
+  ],
+  "October": [
+    {
+      "topic": "Halloween Home Decor and Safety",
+      "category": "seasonal"
+    },
+    {
+      "topic": "Fall Home Maintenance Checklist",
+      "category": "maintenance"
+    },
+    {
+      "topic": "Virginia Real Estate Market Fall Update",
+      "category": "market"
+    }
+  ],
+  "November": [
+    {
+      "topic": "Thanksgiving Hosting Essentials",
+      "category": "entertaining"
+    },
+    {
+      "topic": "Winter Preparation for Virginia Homes",
+      "category": "seasonal"
+    },
+    {
+      "topic": "Black Friday Home Deals Strategy",
+      "category": "shopping"
+    }
+  ],
+  "December": [
+    {
+      "topic": "Holiday Decorating and Storage Solutions",
+      "category": "seasonal"
+    },
+    {
+      "topic": "Year-End Home Maintenance Review",
+      "category": "maintenance"
+    },
+    {
+      "topic": "New Year Home Goals and Planning",
+      "category": "planning"
+    }
+  ]
+}

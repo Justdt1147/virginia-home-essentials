@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Smart Thermostat with Learning Capability",
+    "description": "Programmable thermostat that learns your schedule and adjusts temperature automatically, perfect for Virginia's variable climate",
+    "category": "smart_home",
+    "price_range": "$200-300",
+    "amazon_search_terms": [
+      "smart thermostat",
+      "programmable thermostat",
+      "nest thermostat",
+      "ecobee thermostat"
+    ],
+    "target_audience": "New homeowners wanting energy efficiency",
+    "seasonal_relevance": "Year-round, especially valuable during Virginia's hot summers and cold winters"
+  },
+  {
+    "title": "Voice-Controlled Smart Speaker Hub",
+    "description": "Central hub for controlling smart home devices, playing music, and getting weather updates",
+    "category": "smart_home",
+    "price_range": "$50-150",
+    "amazon_search_terms": [
+      "amazon echo",
+      "google nest",
+      "smart speaker",
+      "voice assistant"
+    ],
+    "target_audience": "Tech-savvy new homeowners",
+    "seasonal_relevance": "Year-round utility for home automation"
+  }
+]
