@@ -296,7 +296,7 @@ function createPostCard(post, index) {
                 <span><i class="fas fa-user"></i> ${post.author}</span>
             </div>
             <h3 class="post-title">
-                <a href="posts/${post.slug}.html">${post.title}</a>
+                <a href="${post.slug}.html">${post.title}</a>
             </h3>
             <p class="post-excerpt">${post.excerpt}</p>
             <div class="post-footer">
@@ -304,7 +304,7 @@ function createPostCard(post, index) {
                     <i class="fas fa-user-circle"></i>
                     <span>${post.author}</span>
                 </div>
-                <a href="posts/${post.slug}.html" class="read-more">
+                <a href="${post.slug}.html" class="read-more">
                     Read More <i class="fas fa-arrow-right"></i>
                 </a>
             </div>

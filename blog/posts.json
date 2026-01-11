@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "10 Essential Smart Home Devices for Virginia Homeowners",
+    "slug": "smart-home-essentials-virginia",
+    "category": "smart-home",
+    "excerpt": "Transform your Virginia home with these must-have smart home devices that enhance security, comfort, and energy efficiency.",
+    "author": "Virginia Home Essentials Team",
+    "publish_date": "January 10, 2026",
+    "read_time": "8 min read",
+    "featured_image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "tags": [
+      "smart-home",
+      "technology",
+      "energy-efficient"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Virginia Real Estate Market Update: January 2026",
+    "slug": "virginia-market-update-january-2026",
+    "category": "market-insights",
+    "excerpt": "Latest Virginia housing market trends, price analysis, and insights for homebuyers and sellers.",
+    "author": "Market Analysis Team",
+    "publish_date": "January 9, 2026",
+    "read_time": "6 min read",
+    "featured_image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "tags": [
+      "market-insights",
+      "real-estate",
+      "virginia"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Best Kitchen Essentials for New Virginia Homeowners",
+    "slug": "kitchen-essentials-new-homeowners",
+    "category": "product-guides",
+    "excerpt": "Create your dream kitchen with these essential appliances and tools for new homeowners.",
+    "author": "Product Team",
+    "publish_date": "January 8, 2026",
+    "read_time": "7 min read",
+    "featured_image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "tags": [
+      "kitchen",
+      "appliances",
+      "home-setup"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Winter Home Maintenance Checklist for Virginia",
+    "slug": "winter-maintenance-virginia",
+    "category": "home-maintenance",
+    "excerpt": "Prepare your Virginia home for winter with this comprehensive maintenance checklist.",
+    "author": "Maintenance Experts",
+    "publish_date": "January 7, 2026",
+    "read_time": "9 min read",
+    "featured_image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "tags": [
+      "maintenance",
+      "winter",
+      "home-care"
+    ]
+  }
+]
