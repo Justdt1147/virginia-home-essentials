@@ -560,50 +560,53 @@ function getRelatedPosts(currentPost, limit = 3) {
 }
 
 // Add CSS animations
-const style = document.createElement('style');
-style.textContent = `
-    @keyframes slideInRight {
-        from {
-            transform: translateX(100%);
-            opacity: 0;
+if (!window.BlogStylesLoaded) {
+    const style = document.createElement('style');
+    style.textContent = `
+        @keyframes slideInRight {
+            from {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
         }
-        to {
-            transform: translateX(0);
-            opacity: 1;
+        
+        @keyframes slideOutRight {
+            from {
+                transform: translateX(0);
+                opacity: 1;
+            }
+            to {
+                transform: translateX(100%);
+                opacity: 0;
+            }
         }
-    }
-    
-    @keyframes slideOutRight {
-        from {
-            transform: translateX(0);
-            opacity: 1;
+        
+        .notification-content {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
         }
-        to {
-            transform: translateX(100%);
-            opacity: 0;
+        
+        .notification-close {
+            background: none;
+            border: none;
+            color: white;
+            cursor: pointer;
+            padding: 0;
+            margin-left: auto;
         }
-    }
-    
-    .notification-content {
-        display: flex;
-        align-items: center;
-        gap: 0.75rem;
-    }
-    
-    .notification-close {
-        background: none;
-        border: none;
-        color: white;
-        cursor: pointer;
-        padding: 0;
-        margin-left: auto;
-    }
-    
-    .notification-close:hover {
-        opacity: 0.8;
-    }
-`;
-document.head.appendChild(style);
+        
+        .notification-close:hover {
+            opacity: 0.8;
+        }
+    `;
+    document.head.appendChild(style);
+    window.BlogStylesLoaded = true;
+}
 
 // Export functions for potential use in other scripts
 window.BlogSystem = {
