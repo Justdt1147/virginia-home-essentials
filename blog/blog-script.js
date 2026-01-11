@@ -207,6 +207,7 @@ function getFallbackPosts() {
         author: "Decor Team",
         date: "2025-11-27",
         readTime: "5 min read",
+        featured: false
     }
     ];
 }
